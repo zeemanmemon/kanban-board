@@ -21,13 +21,6 @@ Built with Python and Tkinter, it lets you quickly organize tasks across columns
 
 * * *
 
-📸 Screenshot
--------------
-
-_Add a screenshot here once ready!_
-
-* * *
-
 🛠️ Requirements
 ----------------
 
