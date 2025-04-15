@@ -71,10 +71,3 @@ kanban-board/
 * Python
 * Tkinter
 * tkcalendar
-
-* * *
-
-🏷️ License
------------
-
-MIT License (or your preferred license)
