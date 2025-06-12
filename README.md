@@ -1,4 +1,4 @@
-🗂️ KanbanBoard – A Visual Project Tracker (Tkinter)
+KanbanBoard – A Visual Project Tracker (Tkinter)
 ====================================================
 
 **KanbanBoard** is a lightweight desktop app to visually manage your projects and tasks using the Kanban method.
@@ -7,7 +7,7 @@ Built with Python and Tkinter, it lets you quickly organize tasks across columns
 
 * * *
 
-🚀 Features
+Features
 -----------
 
 * ➕ Add new tasks with title, description, and optional due date
@@ -21,7 +21,7 @@ Built with Python and Tkinter, it lets you quickly organize tasks across columns
 
 * * *
 
-🛠️ Requirements
+Requirements
 ----------------
 
 * Python 3.x
@@ -42,7 +42,7 @@ Built with Python and Tkinter, it lets you quickly organize tasks across columns
 
 * * *
 
-📁 File Structure
+File Structure
 -----------------
 
 kanban-board/
@@ -55,19 +55,10 @@ kanban-board/
 
 * * *
 
-🧠 Future Ideas
+Future Ideas
 --------------------------
 
 * ⏳ Drag-and-drop task movement
 * 📥 Import/export tasks to CSV
 * 🎨 Tagging or color labels
 * 📈 Dashboard summary view
-
-* * *
-
-👨‍💻 Made With
----------------
-
-* Python
-* Tkinter
-* tkcalendar
